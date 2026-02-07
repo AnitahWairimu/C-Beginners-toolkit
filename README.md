@@ -6,12 +6,15 @@ This project presents a beginner-friendly toolkit designed to introduce new prog
 ## Technologies Used
 - C#
 - .NET SDK
-- Console Application
+- Visual Studio Code
+- Console-based Application
 
-## How to Run
-1. Install .NET SDK
-2. Clone or download the repository
-3. Run the project using the command line
+## How to Run the Project
+1. Install the .NET SDK.
+2. Install Visual Studio Code.
+3. Clone or download the repository.
+4. Open the project folder in Visual Studio Code.
+5. Run the application using the terminal.
 
 ## Author
 Anitah Wairimu
